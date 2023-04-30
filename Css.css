@@ -1,0 +1,30 @@
+table {
+  background-color: red;
+  height: 24px;
+  width: 100%;
+}
+
+body {
+  background-color: black;
+}
+
+.Message {
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  margin: 38px;
+}
+
+.Brand {
+  text-align: right;
+  color: white;
+  font-size: 18px;
+  margin-top: 6px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.Top {
+  background-color: black;
+  height: 62px;
+}
